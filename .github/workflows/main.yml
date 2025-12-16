@@ -24,7 +24,7 @@ jobs:
         
         ### SCANNING: Optional fields
         polaris_application_name: ${{ vars.POLARIS_APPLICATION_NAME }}
-        polaris_project_name: ${{ vars.POLARIS_PROJECT_NAME_NAME }}
+        polaris_project_name: ${{ vars.POLARIS_PROJECT_NAME }}
 
                 ### PULL REQUEST COMMENTS: Uncomment below to enable
         # polaris_prComment_enabled: true 
